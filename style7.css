@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+#first{
+    height: 300px;
+    width:300px;
+    border: 2px solid black;
+    /* display: none; */
+    /* visibility: hidden; */
+    /* text-align: center;
+    text-align: left;
+    text-align: right; */
+    /* text-decoration:underline; */
+    /* text-transform: lowercase;
+    text-transform: uppercase; */
+    font-size: 36px;
+    /* line-height: 112px; */
+    font-family: verdana, 'Segoe UI', Tahoma, Geneva, sans-serif;
+    /* font-weight: 900; */
+    font-style: italic;
+    /* font-style:unset; */
+    /* font-variant:small-caps; */
+
+}
+#second{
+    height: 300px;
+    width:300px;
+    border: 2px solid black;
+    /* display: inline; */
+    display: inline-block;
+}
+#third{
+    height: 300px;
+    width:300px;
+    border: 2px solid black;
+    /* display: inline; */
+    display: inline-block;
+}
+#fourth{
+    height: 300px;
+    width:300px;
+    border: 2px solid black;
+}
